@@ -6,6 +6,7 @@ Can be downloaded for further comparative tests at the following webpage:
 The models and the dataset of this projects is in:
 - [Semi-Supervised Learning for Semantic Segmentation in Viticulture](https://github.com/ancasag/GrapeBunchSegmentation)
 - [Taking Advantage of Depth Information](https://github.com/ancasag/segmenationVineyards)
+- [RGB-D generated](https://github.com/ancasag/segmentationRGB-DGenerated)
 
 ## Acknowledgments
 This work was funded by the following research programs: “E-crops - Technologies for Digital and Sustainable Agriculture” funded by the Italian Ministry of
